@@ -2,6 +2,8 @@
 * hamzahmalik101@gmail.com
 * https://hamzahmalik101.github.io
 * *Authorized to work in the US*
+* U.S N.O: +12066024049
+* Pak N.O: +923355954999
 
 ## Profile Summary:
 *Data focused team worker, and hardworking analyst; background in Quantitative Economics with a focus in Data Analytics and Software Development. Technical Skills include development related (Javascript/Typescript, NodeJS, C/C++, Linux, Git) and analytics related (Excel, Tableau, SQL and R) as well as strong interpersonal and communication skills. Looking for an analyst or software development position.*
