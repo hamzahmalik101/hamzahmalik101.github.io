@@ -13,7 +13,7 @@
 Co-Founder and COO
 - Co-founded the company to address the need for high quality banners, of various sizes, delivered on a short turn-around time.
 - Developed a go-to market strategy based on extensive customer base market research, market demand cycles and pricing trends.
-- Grew annualized revenue by 500% for consecutive years, generating annualized revenue of $300k, through expansion of the business across multiple cities.
+- Grew annualized revenue by 500% for consecutive years.
 - Cultivated a wide customer base of 100+ regional and national clients, by understanding specific requirements, and catering to different use-cases.
 - Hired and coached a team of 10, across 3 cities, to run regional operations focused on operational efficiency and quality customer service.
 - Pivoted from self-owned delivery system to low-cost delivery platforms to provide products to customers quickly and efficiently, decreasing delivery cost by 30%.
