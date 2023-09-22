@@ -10,15 +10,25 @@
 
 
 ## Professional Experience:
-### **July 2020 - Present : Business start-up Bannerbazaar**, Islamabad, Pakistan
+### **July 2020 - July 2022 : Business start-up Bannerbazaar**, Islamabad, Pakistan
 
-Co-Founder and COO
+Creative Director
 - Co-founded the company to address the need for high quality banners, of various sizes, delivered on a short turn-around time.
-- Developed a go-to market strategy based on extensive customer base market research, market demand cycles and pricing trends.
-- Grew annualized revenue by 500% for consecutive years.
 - Cultivated a wide customer base of 100+ regional and national clients, by understanding specific requirements, and catering to different use-cases.
 - Hired and coached a team of 10, across 3 cities, to run regional operations focused on operational efficiency and quality customer service.
 - Pivoted from self-owned delivery system to low-cost delivery platforms to provide products to customers quickly and efficiently, decreasing delivery cost by 30%.
+- Utilized SQL and R to evaluate the feasibility and potential success of different pricing models, and to monitor performance and growth opportunities across different categories.
+
+### **July 2022 - Present : Truck-It-In**, Islamabad, Pakistan
+
+Business Development Executive
+- Identified and researched opportunities that come up in new and existing markets as well as worked with senior team members to identify and manage company risks that might prevent growth.
+- Developed a go-to market strategy based on extensive customer base market research, market demand cycles and pricing trends.
+- Strategize ways to build market share, increase revenue and acquire success through innovative developments in organizational structure.
+- Establish product loyalty through continual efforts to build, modify and increase product offerings with respect to ethical standards which is not only competitive but also is true to the company mission.
+- Responsible for new sales and existing client growth.
+- Helped drive sales by sourcing new clients and convincing existing customer base to make additional purchase.
+- Negotiated with investors through strategic alternatives allowing a healthy relationship between the company and its shareholders due to reduced risk and greater returns.
 - Utilized SQL and R to evaluate the feasibility and potential success of different pricing models, and to monitor performance and growth opportunities across different categories.
 
 ### **July 2016 - July 2017 : World Wildlife Fund (WWF)**, Islamabad, Pakistan
