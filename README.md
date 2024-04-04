@@ -10,7 +10,7 @@
 
 
 ## Professional Experience:
-### **Oct 2023 - Present : National University of Sciences and Technology (NUST)**, Islamabad Pakistan
+### **Oct 2023 - Present : National University of Sciences and Technology (NUST)**, Islamabad, Pakistan
 
 Assistant Manager Prospects and External Relations
 - Managed donor relationships for NUST, facilitating fundraising and capacity building efforts.
