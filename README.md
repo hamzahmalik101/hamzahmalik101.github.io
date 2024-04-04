@@ -10,14 +10,17 @@
 
 
 ## Professional Experience:
-### **July 2020 - July 2022 : Business start-up Bannerbazaar**, Islamabad, Pakistan
+### **Oct 2023 - Present : National University of Sciences and Technology (NUST)**, Islamabad Pakistan
 
-Creative Director
-- Co-founded the company to address the need for high quality banners, of various sizes, delivered on a short turn-around time.
-- Cultivated a wide customer base of 100+ regional and national clients, by understanding specific requirements, and catering to different use-cases.
-- Hired and coached a team of 10, across 3 cities, to run regional operations focused on operational efficiency and quality customer service.
-- Pivoted from self-owned delivery system to low-cost delivery platforms to provide products to customers quickly and efficiently, decreasing delivery cost by 30%.
-- Utilized SQL and R to evaluate the feasibility and potential success of different pricing models, and to monitor performance and growth opportunities across different categories.
+Assistant Manager Prospects and External Relations
+- Managed donor relationships for NUST, facilitating fundraising and capacity building efforts.
+- Oversaw end-to-end donor management, ensuring compliance and reporting.
+- Strategically designed and led outreach visits internationally and nationally.
+- Initiated partnerships with leading corporates across various sectors.
+- Collaborated with stakeholders to achieve project objectives, including arrangements with notable companies.
+- Assisted in curating donor recognition events and spearheaded the 'Al-Maasad' Zakat Campaign for financially challenged students.
+- Conducted feasibility studies and drafted proposals for various projects.
+- Developed user requirements through conducting UAT's and automated the website 'IMPACT 3.0' to enhance communication between stakeholders, faculty and students. Website: https://impact.nust.edu.pk
 
 ### **July 2022 - Present : Truck-It-In**, Islamabad, Pakistan
 
@@ -29,6 +32,15 @@ Business Development Executive
 - Responsible for new sales and existing client growth.
 - Helped drive sales by sourcing new clients and convincing existing customer base to make additional purchase.
 - Negotiated with investors through strategic alternatives allowing a healthy relationship between the company and its shareholders due to reduced risk and greater returns.
+- Utilized SQL and R to evaluate the feasibility and potential success of different pricing models, and to monitor performance and growth opportunities across different categories.
+
+### **July 2020 - July 2022 : Business start-up Bannerbazaar**, Islamabad, Pakistan
+
+Creative Director
+- Co-founded the company to address the need for high quality banners, of various sizes, delivered on a short turn-around time.
+- Cultivated a wide customer base of 100+ regional and national clients, by understanding specific requirements, and catering to different use-cases.
+- Hired and coached a team of 10, across 3 cities, to run regional operations focused on operational efficiency and quality customer service.
+- Pivoted from self-owned delivery system to low-cost delivery platforms to provide products to customers quickly and efficiently, decreasing delivery cost by 30%.
 - Utilized SQL and R to evaluate the feasibility and potential success of different pricing models, and to monitor performance and growth opportunities across different categories.
 
 ### **July 2016 - July 2017 : World Wildlife Fund (WWF)**, Islamabad, Pakistan
