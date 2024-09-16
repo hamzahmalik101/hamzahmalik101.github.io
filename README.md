@@ -24,7 +24,7 @@ Assistant Manager Prospects and External Relations
 
 ### **July 2022 - Present : Truck-It-In**, Islamabad, Pakistan
 
-Business Development Executive
+Operations Analyst
 - Identified and researched opportunities that come up in new and existing markets as well as worked with senior team members to identify and manage company risks that might prevent growth.
 - Developed a go-to market strategy based on extensive customer base market research, market demand cycles and pricing trends.
 - Strategize ways to build market share, increase revenue and acquire success through innovative developments in organizational structure.
