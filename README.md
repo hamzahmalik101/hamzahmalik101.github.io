@@ -10,7 +10,7 @@
 
 
 ## Professional Experience:
-### **Oct 2023 - Present : National University of Sciences and Technology (NUST)**, Islamabad, Pakistan
+### **Oct 2023 - June 2024 : National University of Sciences and Technology (NUST)**, Islamabad, Pakistan
 
 Assistant Manager Prospects and External Relations
 - Managed donor relationships for NUST, facilitating fundraising and capacity building efforts.
@@ -22,7 +22,7 @@ Assistant Manager Prospects and External Relations
 - Conducted feasibility studies and drafted proposals for various projects.
 - Developed user requirements through conducting UAT's and automated the website 'IMPACT 3.0' to enhance communication between stakeholders, faculty and students. Website: https://impact.nust.edu.pk
 
-### **July 2022 - Present : Truck-It-In**, Islamabad, Pakistan
+### **July 2022 - October 2023 : Truck-It-In**, Islamabad, Pakistan
 
 Operations Analyst
 - Identified and researched opportunities that come up in new and existing markets as well as worked with senior team members to identify and manage company risks that might prevent growth.
