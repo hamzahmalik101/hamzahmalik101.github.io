@@ -3,10 +3,9 @@
 * https://hamzahmalik101.github.io
 * *Authorized to work in the US*
 * U.S N.O: +12066024049
-* Pak N.O: +923355954999
 
 ## Profile Summary:
-*Data focused team worker, and hardworking analyst; background in Quantitative Economics with a focus in Data Analytics and Software Development. Technical Skills include development related (Javascript/Typescript, NodeJS, C/C++, Linux, Git) and analytics related (Excel, Tableau, SQL and R) as well as strong interpersonal and communication skills. Looking for an analyst or software development position.*
+*Data focused team worker, and hardworking analyst; background in Quantitative Economics with a focus in Data Analytics and Software Development. Technical Skills include development related (Javascript/Typescript, NodeJS, C/C++, Linux, Git) and analytics related (Excel, Tableau, SQL and R) as well as strong interpersonal and communication skills.*
 
 
 ## Professional Experience:
@@ -67,3 +66,9 @@ Intern
 - **Delta Theta - Treasurer's Committee Member**
   - Working with Teasurer's Committee to ensure the house is well suited for all diverse members of the Fraternity.
   
+## Websites:
+- Published Article: https://medium.com/@hamzahmalik101/what-makes-a-company-hire-you-7ad83044aece
+- Github Portfolio: https://hamzahmalik101.github.io/
+- Website 1 (UAT’s): https://impact.nust.edu.pk/#/login
+- Website 2 (Design and Implementation): https://endowment-catalogue.nust.edu.pk/
+- Bannerbazaar Instagram Social Media Page: https://www.instagram.com/bannerbazaar/
