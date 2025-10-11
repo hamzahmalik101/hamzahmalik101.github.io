@@ -9,7 +9,7 @@
 
 
 ## Professional Experience:
-### **Oct 2024 - Present : The Scotts Miracle-Gro Company
+### **Oct 2024 - Present : The Scotts Miracle-Gro Company**
 Routing Specialist
 - Successfully routed and scheduled over $2 million worth of product from the site every day.
 - Independently manage and work daily with the entire Region’s (Distribution Centers) scheduling, order fulfillment, problem solving, and routing for CFR and FOB shipments to achieve shipping goals.
