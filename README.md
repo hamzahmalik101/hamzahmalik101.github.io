@@ -9,6 +9,20 @@
 
 
 ## Professional Experience:
+### **Oct 2024 - Present : The Scotts Miracle-Gro Company
+Routing Specialist
+- Successfully routed and scheduled over $2 million worth of product from the site every day.
+- Independently manage and work daily with the entire Region’s (Distribution Centers) scheduling, order fulfillment, problem solving, and routing for CFR and FOB shipments to achieve shipping goals.
+- Oversee and coordinate 70% of the company’s total sales, ensuring efficient logistics and on-time deliveries.
+- Interact with Retailer Transportation Teams
+- Execute transactions in SAP WM, EWM, C3/Opendock, and customer TMS portals, while leveraging SQL queries to analyze shipment data, track KPIs, and generate logistics reports.
+- Manage transactions in customer TMS portals to route outbound shipments
+- Manage transactions in internal TMS system and C3 portal 
+- Maintain KPI’s - On - Time Ship and Customer Compliance
+- Manage daily routines between assigned distribution centers and customers, ensuring smooth logistics flow and strong stakeholder relationships
+- Analyze shipment data in Excel (value, weight, and status by DC) and present performance updates to executives for informed decision-making.
+
+
 ### **Oct 2023 - June 2024 : National University of Sciences and Technology (NUST)**, Islamabad, Pakistan
 
 Assistant Manager Prospects and External Relations
